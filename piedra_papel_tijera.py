@@ -10,7 +10,7 @@ def jugar():
     if gano_el_jugador(usuario,computadora):
         return 'Ganaste groso'
 
-    return 'Perdiste'
+    return 'Perdiste salmin'
 
 
 def gano_el_jugador(jugador, openente):
